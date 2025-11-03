@@ -1,1 +1,1 @@
-# esp_32_displaying_message_to_an_external_display
+# Displaying message on an external display using ESP-32s
